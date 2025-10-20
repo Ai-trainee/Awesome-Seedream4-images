@@ -1,0 +1,34 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build output
+.dist/
+dist/
+build/
+.out/
+.next/
+.vercel/
+.svelte-kit/
+
+# Env
+.env
+.env.*
+
+# Misc
+coverage/
+.tmp/
+.cache/
+.idea/
+.vscode/
